@@ -4,4 +4,6 @@ NPM     : 2206082064
 
 Kelas   : PBP C
 
-Hobi : rebahan
+Hobi : Rebahan
+
+Jurusan : Sistem Informasi
